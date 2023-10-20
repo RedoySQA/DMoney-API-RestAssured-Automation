@@ -1,5 +1,5 @@
 # DMoney-API-RestAssured-Automation
-  I have created a Rest Assured Automation project for automating Dmoney API and asserting successfull activities.
+  I have created a Rest Assured Automation project for Dmoney API and assertrd successfull activities.
 
 ## Scenario
    Do following steps using the API's from this collection:
@@ -31,4 +31,17 @@ Hints:
 ## Images of Allure Report
    ![Screenshot_29](https://github.com/RedoySQA/DMoney-API-RestAssured-Automation/assets/143482478/0cf72051-837e-4465-a005-ff8803f0c2ea)
    ![Screenshot_30](https://github.com/RedoySQA/DMoney-API-RestAssured-Automation/assets/143482478/b2e538de-fdc0-44ea-8ce0-012af156eeb3)
+
+## Automation Output Video
+   https://github.com/RedoySQA/DMoney-API-RestAssured-Automation/assets/143482478/f0dba21d-0add-4445-aef3-6b625f6d0052
+   
+## How To Run This project
+   - Clone this project
+   - Open this project in intellij
+   - Hit this command in terminal
+     gradle clean test
+   - To generate allure report hit these command in terminal
+     allure generate allure-results --clean -output
+     allure serve allure-results
+
 
