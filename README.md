@@ -1,5 +1,5 @@
 # DMoney-API-RestAssured-Automation
-  I have created a Rest Assured Automation project for Dmoney API and assertrd successfull activities.
+  I have created a Rest Assured Automation project for Dmoney API and asserted successfull activities.
 
 ## Scenario
    Do following steps using the API's from this collection:
