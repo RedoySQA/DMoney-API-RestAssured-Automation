@@ -39,9 +39,9 @@ Hints:
    - Clone this project
    - Open this project in intellij
    - Hit this command in terminal
-     gradle clean test
+     'gradle clean test'
    - To generate allure report hit these command in terminal
-     allure generate allure-results --clean -output
-     allure serve allure-results
+     'allure generate allure-results --clean -output' and
+     'allure serve allure-results'
 
 
